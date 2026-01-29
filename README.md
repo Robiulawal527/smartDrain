@@ -519,9 +519,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Contributors
 
-- **Robiul Awal** - Initial development and documentation
+- **Md Sharif Ahmed** (0112330693) - Department of Computer Science and Engineering, United International University, Dhaka, Bangladesh
+- **Robiul Awal** (0112320108) - Initial development (Electronics) and documentation, Department of Computer Science and Engineering, United International University, Dhaka, Bangladesh
+- **Tahsin-A-Parthib** (0112410195) - Initial Design.Department of Computer Science and Engineering, United International University, Dhaka, Bangladesh
+- **Tasnuva Ferdus Oishi** (0112330821) - Department of Computer Science and Engineering, United International University, Dhaka, Bangladesh
+- **Tanziran Jannatul Juhi** (0112410159) - Department of Computer Science and Engineering, United International University, Dhaka, Bangladesh
+- **Rohana Akter Nisha** (0112221443) - Department of Computer Science and Engineering, United International University, Dhaka, Bangladesh
 
-## 📞 Support
+## �‍🏫 Mentor & Course Instructor
+
+- **Mr. Taki Yashir** - Lecturer, Department of Computer Science and Engineering, United International University
+  - **Email**: taki@cse.uiu.ac.bd
+  - **Room**: 336 (D) | **PABX**: 6102
+  - **Role**: Electronics Course Teacher & Project Mentor
+
+## �📞 Support
 
 For issues, questions, or contributions:
 - **GitHub Issues**: [Report a bug](https://github.com/Robiulawal527/smartDrain/issues)
